@@ -2,7 +2,7 @@
 
 To retrieve the data in this asset, do the following:
 
-    $ git clone https://github.com/scidataflow-assets/nygc_gatk_1000G_highcov.git
+    $ sdf asset nygc_gatk_1000G_highcov
     $ sdf pull --all
 
 Be warned that the total size of all data is 1.33TB.
